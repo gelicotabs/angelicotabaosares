@@ -26,6 +26,7 @@ function Main() {
           <div className="mobile_social_icons">
             <a href="https://github.com/gelicotabs" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/angelico-tabaosares-7b928a184/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href={cv} target="_blank"  rel="noreferrer"><AssignmentIndIcon/></a>
           </div>
         </div>
       </div>
