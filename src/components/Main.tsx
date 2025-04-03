@@ -3,7 +3,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 import profile from '../assets/images/0.jpg';
-import cv from '../assets/Angelico Tabaosares Resume 2025.pdf';
+import cv from '../assets/AngelicoTabaosaresResume2025.pdf';
 import AssignmentIndIcon from '@mui/icons-material/AssignmentInd';
 
 function Main() {
