@@ -3,6 +3,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
 import profile from '../assets/images/0.jpg';
+import cv from '../assets/cv.pdf';
 
 function Main() {
 
@@ -16,6 +17,7 @@ function Main() {
           <div className="social_icons">
             <a href="https://github.com/gelicotabs" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/angelico-tabaosares-7b928a184/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href={cv} target="_blank"  rel="noreferrer"><AssignmentIndIcon/></a>
           </div>
           <h1>Angelico Tabaosares</h1>
           <p>Full Stack Engineer</p>
